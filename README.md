@@ -5,7 +5,8 @@ I'm a software engineer focused on web development. I work at Artsy and whenever
 See below some of the activities I pushed in 2025 out of my formal work:
 - 📝 [From Ruby on Rails to Spring Boot](https://dzone.com/articles/from-ruby-on-rails-to-spring-boot) - article published on Dzone.com.
 - 💬 [Web Scraping and Crawling with Python](https://scraping-slides.netlify.app) - slides for the talk I presented on PyCon Austria 2025.
-- 🐛 [Fix error when running scrapy bench](https://github.com/scrapy/scrapy/pull/6633) - A bugfix I submitted to the Scrapy framework.
+- 🐛 [Fix error when running scrapy bench](https://github.com/scrapy/scrapy/pull/6633) - a bugfix I submitted to the Scrapy framework.
+- 💻 [Mentor @ Women Coding Community](https://www.womencodingcommunity.com/mentors?keywords=Lidiane%20Mayra%20Taquehara) -  long term relationship and ad-hoc mentorship sessions for women in tech.
 
 I also enjoy spending some time asking and answering questions on Stack Overflow.
 

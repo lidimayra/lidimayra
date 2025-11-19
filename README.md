@@ -7,6 +7,8 @@ See below some of the activities I pushed in 2025 out of my formal work:
 - 💬 [Web Scraping and Crawling with Python](https://scraping-slides.netlify.app) - slides for the talk I presented on PyCon Austria 2025.
 - 🐛 [Fix error when running scrapy bench](https://github.com/scrapy/scrapy/pull/6633) - a bugfix I submitted to the Scrapy framework.
 - 💻 [Mentor @ Women Coding Community](https://www.womencodingcommunity.com/mentors?keywords=Lidiane%20Mayra%20Taquehara) -  long term relationship and ad-hoc mentorship sessions for women in tech.
+- 💻 [Mentor @ Ruby Empowers](https://www.caiena.net/blog/ruby-empowers-2025) - Ruby mentorship for women on a 3 week
+  program organized by [@caiena](https://github.com/caiena).
 
 I also enjoy spending some time asking and answering questions on Stack Overflow.
 
